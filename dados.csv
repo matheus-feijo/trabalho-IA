@@ -1,0 +1,7 @@
+nome,febre,enjoo,manchas,dores,diagnostico
+maria,0,1,0,0,saudavel
+pedro,0,0,1,0,saudavel
+ana,1,0,0,1,saudavel
+leila,0,0,1,1,doente
+joao,1,1,0,1,doente
+jose,1,1,1,1,doente
